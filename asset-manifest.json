@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saheerkhan47/StikcyNotes.git/static/css/main.9fde2896.css",
+    "main.js": "/saheerkhan47/StikcyNotes.git/static/js/main.904fce16.js",
+    "index.html": "/saheerkhan47/StikcyNotes.git/index.html",
+    "main.9fde2896.css.map": "/saheerkhan47/StikcyNotes.git/static/css/main.9fde2896.css.map",
+    "main.904fce16.js.map": "/saheerkhan47/StikcyNotes.git/static/js/main.904fce16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fde2896.css",
+    "static/js/main.904fce16.js"
+  ]
+}
